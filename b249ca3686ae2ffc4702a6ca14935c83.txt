@@ -1,0 +1,246 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 7,
+      "minor": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "AyLGSHFy2Dck9A4cw9QRcJjts/qAM8U11Ha+mkVprlQUIK7881GLl3IiodVCoGQv0BCcBp7uHFfpAoEgpqUxI5lv9e9Dcgw+/CbeYcjfnDFhHKDCgYW/G64rb+fTP5cKIZm9HikxWIbcIB5g+dQqOuHvgfjtm5FpM0DylGNFeYMulUsYvz2Bz5aowrgtZ5pvbQmQr0S9MlsWG5vv8GSJapx3jQ6YQPiYMcJLGBva8unhtQQhc+UlUC6zX54QEv0q9i9rEOF+5PzV1bwJt03sm33O1WJN8PB1+3VRhTGzEIhHquEE/cclVLPgtHlxPymPxnDjQiHpiDYLBuB/ZQNpd2gGLOxp4f+uN0Wff7gDdXoHEu/FSgcZSDVxsoGP+KK7cHJorkxGDl/RD+rYn1d2oSmUwP7B+OhBs1nuCYvGE13iPtfKfevmE5YZDBRR3G3oMwtL+7VTc/DZRzmjSkp5v6/7Xwe7Nw1zaUDoc+3G48obT9H4XFtm8ribW6x7F65l4Crzc/Lw2a7UAU8T8wd/ZvJFy4/TEH8rvcy4s6DJ9a/YGTr7EzevWsrLsBiF6+RC8fDmJkr2guDwcfjdrXzCGSj+HclxnT1T257MBP85F5ImQOMmlEbuUlcI73Pm8D+EocIb3Q+NFnRQPrjpwMe6EFm+B5pRHZ1C3rczd7UkSUU="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "Xua4maKo3rQM3QmBlwntc9iKjSKUZG74r3x51rkh/fukKBdBG5xxr24uf+jteWspcxOeATI5BBbyxLexOTwDKuuAmuSam+q3C4bycCehP2lsXZZbiv7do2dpDDj9+7JR4OhESddAds6FvZaV8Ifo5Rt+1isCcLaMOpSnNJ3LQDVUGwM7cd3zMpcTfU3kGkXPO+odVkt6KbKeOtIjKqZiUx7vzpNjgAF3P9VR3oeWihOOdNeeWHlZlL+IgjEg8hehmfNjcx+/utGp7poVi748Qt+TNTD+I8HipIGSpZmjjUBzM++U7y532dBxtXh4380scW9GaWoGKHHpcDcJCxSQhYu4oBd7UAps/lDBRAvuoz+y2xSPi6/Vex3BgSO2hk9u/HjIvOf/IDTJ39XGoDu8mhmkaZKZy1UmyVNgj0u41q4FRWv06YBatp7dAeN8IdjHwmBWdtLDH5c13abgGnbcGSqnVxbFLnLRfrZWvsY0r1PlBH/iiSLv9tde+C8ilgCOiwEnFOlxdIr1tBED6JL8ukaTvqRGkhWOaSJJDXNl9CDEPX+tWnwwsR+Jb3lFMhdMfKI2Hulh42rw/6aizmUe1tpVWBHwEtA1DRbV92aiI++zXU3aQ5SCAf89U/sUbY4Iats1VurXKphebHslYdQqG0dKu685wD/PZ6MSR+uWnak="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "EfN6VIxTh+R3+5VrUkQeMUHb0s13c9zVkxQYZkho/Ptl7+Yh+/VCr97OvysG1LqfSBnvWH9LEPUu7lTAcFUkuUewCOgeNpW9cuHSN/Xh+sLyJGoyR+iioTO6ybCnGloEtaLbm9EYDqWuVAWOFXh7K/wHSl1Xv4EJc89BApe+a3+dUS4pY3AX6bfC66wDAXFVVLG4nI3ZuuaskJKMCmyyO9B63c85Up9PqYt6WctZh4zZpeKm+Fu8kHfQvC2PrAhD243YQ+HnK7WBXHLq3JqsOSeV37mGJxjzL7NRe/eCgxtYObqvw5lU9G+0l2H/5fIV6DhCiIqYzRKSmO/FEHmNq63i0jEyN6IcS6SO7xjoMQvCwEt7udqc2ebkmDf6c1Wo6d9QHeHQmZskOeSKJhDy1E9Uj9B0i62ECuxVvV0KMOxBVmjYcpPSsLX/e+SNntAWQrR8hbarcOxD9UwtWQ9r7/E3y8W3pgtIrkmoik1FCfItd+AZvEEPyGRJUWxQ0MQTxMDlNhF4WziUor+140/3wgItWx4qB1Dx7DaZiNUfbit7ZUMVXQTuWkmeqUBB4MOKPGEt6RURZ4UB/O5VKu0v+CN/CINxWPKCaWFQV0iYt5N+Aw0UctlUgULkgoLWOkwLuuqGBlPt4eh45RxLCwsz6NgfoROBNiK3y9DuBPK6iUw="
+  },
+  {
+    "product": "pdfRender",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "dkoKDy8ooi6MzWKsc18oQIRhw0QyMCCXPE3hson3qrzwxaP3PIEz2A5/aJoS/QqfdpivfyGCP3breUI/M4tzKMJ4O+4KRrv+CPX8gFo8QfdNiqTWw4PomEZKghDgXZShJ660qY6BttYYieEU3gM3UGrqxged1sqb1bh73B5M66YpPWBvNibr3Ko6sA7uZ97DRQrWezarUNyUx8gL50XNLOw8EeuMInbRbqpvbkwWQoCzmgEuJqAsbDoe4ZfAOqrDPM8E0+PotU94Io+7EfZXudlOLSAZAFrhfQ78B96O+UWk4SPzZjRI8exPN98PkWVQVeX675zYsOZWHKypok3I1NQVXUM5whc4nrDxSmWxhbJabqHQEXnCGVaLbhwUo3LM2N4oQsPmwaDbm79zIW3RRFutw8LddkSLwIAOlnDYd7mBfEP2punkP07TD0qXY547a6n6WXjUBo9f1hvjxHW6d1X2r09sdQdvsVK7EYmH8dIfI1+KfC7B8FtwTaVZJJRlhdm238RdrmmrvG6fzuFDb57y8fO56yFNP/kv0aldBZrmfLfVjlDri8cQWDwjN4ktAhFv3qde4zOyVAyfFabfmA6nQSc7SgD8B28819Kh+s9Q2IHosMPFHaTTwyICZAMXdrBcMGrUlnWgfBHLvyoW4AOtzG070E3lzhGbes4plPI="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "cvPQUZSpd4pWyw6CeO45/Cgf5ExpBbItSqqFG05YG5Szni5Pzbg1Fx7naYfa3kgog1omu5QgKoUh3cZ1cu2nG7ZCQVZJKaeZ+lIckZRiJK5wfftdh+Urnous2F9b4GnZY05Hv2BOLSTkLaDI2faDna9anEgwwFdi0SL0oknOE0eWnzbcfj9etzdr53vVdBsMnvrchqYr6hhzuSuhL85UVr0KQntH7tsnELZnT383LxcLpvL0rg1ELzDElZ0w0BkHgQvtSpNjLMTrUYJ9FwuDWs2izdsDV2kn5a2K1QDndtRWs+w4rNfvdenlbvVrdb23TpNombb/Il0i1vOzhqmL7/PBwPTGohVOpqpfKW+XuVzH8j3IT3LlvP6RXdZ6edVjX4pXKVnepxjsbJBD9YFyysVy68wcaSpG6bffzqjjeddGhACo2resXyfn7BOcJYcWrouCL/IBXHGdCDjjaNlTnW73DatE9sAVyqVUYpVYcRQl/ONx8mTTg3JYk5x3Xeul4q1Ze8sdteGQWTrVPsgr8w+76EmZ8zipdQJ7jxJcSMa7l6qvrggg63Fh7IttUs8ITjWxnVtqq56QBbftyezI5Y4WzcmlQaq6a94eb+0AZ82nU62H7+OC4CZyr0RBM6TgDzL5iWIQ+zZJYL1pfAe0D1Dyqqtmov62vDTzXj2zA+k="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "XjLYbAYpDFXqWeHP4l+bByI2cFEpVc4wGIbkt/gCb3kVKWAgGYOC65GpC8oQqowcuJW7RNp/22SgeZsAYITGBO9rq3U2oZ9ayt35QC8TieQxZxHocUX5uI1QG3u9fq/yFqYhfdqjf/Hq8kvjCRv4SL9lM/weYIaWXZ28vOD1GqSulknO158xd73SeFYnj8kGgRVClZ06JpmIQp4bkUmgSMq/xhh/tjmuY8q0P6o7v7LhWHJtOWSMa5S96ycYCDO1STTCyepXXlA/EBNSAC2nK3jjICDvBdqDbZd6nBTA9Lt1HJ48d5vGk6OUEU1Q2MzxcUnbNut4132pnemSg4qJRYBSBLXBHKh2ylaJjbiiXrGKl9vyyUesooXqclKb26gvXsYkWGLojIhB8Qf6K+dy/zAdXmehGIwjemhu1w1NVc3fUuP/rui/+h+oDSUQXi8zPGRvCYE3+iYirsZGBqeWInrk67eSvFx6C0aromUsruZvdoAFZRKz41hp8oVx14vdwuJTvaB7/+GwSF0KWmJ8Iey9+2VgrkiEPkCPN6czpl6VnMvLWCnpxLkVe5pCKuqQyac5Qln+vAJRyELN94uIm2r4shcqMI1gEeWu0Sw0zYl3T+lB2bnjacWr2Vi2yC4r0QkYANFEoFCel/vj8V0HZJbr12nwajV9itWdrz2iO/Y="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "YSmM5mRMuNeschRrhkkOM/02J6YCKh+cYn25xES8ovkdQ42AZn8CKwYhkugd6QmktyGoMZ1XkrZ9m9Kli3z8hj4lvEpr+SxdaNh6wcgIH4zyZ+YYUkYfqsEQpgpO3l+apmaeexDhSdFkbcTvh3Ak2FisDcZIe6RZeq3igYAe1IIX6MmGEetisLFxRQ6RAxd/nWzUsfc7GllFMZTugJJxol/uQ9lqsez8fJ0nnq+qC2n9AX+dfLjSJ0vxJMc1ypFzUP2DgsJeO+CkmepjCpDQn28NRiA2wIU5fM3ZhzhxYS32H84GMIDuBTUp22wHiRc0eqFFUE8OYAoQ8Mu68Ujezk2kyTYIDPsOfPVCCbIEQW04xbYTMDLqOsh5LovgXQBQKdswjOIzunoZ2eNTkMe4RONekWS1ar9lpwaZC6We+LvJBCAqouAYkixMrro4fapfl56wzzS3tAL82eGh3tTlVac+Ef4t81YboepCZPXXvfIpFXBlN9XnQ8wHaVcro+RYA/qwiqBDBKmY0GkGIrHeRKmmCLH+mMJNiH6hNY2/XwrEZO3yeyL54mAIMcTbAALFnr/7SCZCJs0Gm4927H1o+i40yNBCpRT9d9ZSrzYBwVSDRG0zycfNNMd+ZnZsXAQhgQTEbHnElcEg3Z5kKmgQdqFV0CGP7F5AJswW40bbGtU="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "NnbsDHXEY9Wm5LZgSWqrFtAq7CWkTtrNXIu3uV2tHJTOkoXhyTo4xpB04oVRl0CETryf08NIcoP0mLA8DyHnMMeo9gq4JyUffvwiCOr2teflt0e2JxowRAVfezvQaJLBB8KiZ4/5FAOYt7XhvWX1I7Wp3SJl6TYA64C6SXYY5ntc8X/r8Kj9cc2VQBGbfszu852HkBgW2cGOE+Wj5Rxv2jRBBoAv6Msk126yGXxkRHf3+GUZaZX8Y7gRSkpIJelqIHXSroTOvkXlFR0aMggG6nl+J2rTCPXz0CzAeAmlPx7DlKokdaGYaoDknnPqs2V59jGdJ8EMRP1gcsqy+mn3ukJS+ye6Q7/DgQuFTbzQTXUkLyzEYPvB3T3dQlYgtCeezBymMcIT8zeyP3KO8PEg6JOS39JN3e8D7s8/FUYFeRm3/x3p9Mftn5zM8jAoUeB9kl6so2pIEzyiToraU6SPAU6e9OE4dGbouYZDTcMMRaWbQM0VmtqIPMsCt+yndCQqGY4HuNvn1dvGyXfaSmXM71LnfhkOWu9iS1q2IP0g1PoPk6vDCdPCRyRxh3qXFqHLvnUmKfyTHgyxmlLOAh3mk4be4ZMtw/wahajDdytcGIhoejfmryKBvQg31v71gXXwj9BJJoHOBhdrPAJvjGNVya1jQymP+zFd7J+TEmwjG1w="
+  },
+  {
+    "product": "pdfOffice",
+    "licensee": {
+      "company": "ncs",
+      "name": "yuan wu",
+      "email": "wuyuan2009123@163.com"
+    },
+    "key": "62142a892e6b5b6e21edba18cab3f9379ad041cb333ccb7cc2ad1aaeeed5f32b",
+    "creationDate": "2023-03-14",
+    "expirationDate": "2023-04-13",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "JtwvnMpTw7k6lfK/O1pBm5DdwNFkMEcBXqHVY5ry1Sgm3GamzIvUkgYMMGppVg0b87O2+a+iMEQ3AKZQwGRVrBo8xvbEMe+hzJDq01H+kjL8MZhTj1VVza4xfHWR7BUsS8bGC3cq90KOmYP06Uxf7EAyktfvsJdGGQKLjrn9MUVPI2EbMVoV4ix2JZssJmNzxVIXVNrdKZqo2zUXbYBE1fmTtqvwDOem9JGAn/nWUT2LGlRTmAXTswcDmI9bQh/vktqcexJKNQHSjDTirN1Zr7fk6D6NXygyLhWb4DuqK+Eh/Z9jiQu4LFhbpcdStm2nEKa0zySzu6jqAfYuZo6AvWnITfxQhaIMwz5ng6aGaLdKp3dnxN6hMvuc+Ycey0IEz6IIbHgXDqX9HpdUBYgCXeMIv/PeMrl45xATIhKzaWueYVfZMI72JsPXHe00uM6/F+Rc2MYxQQnADG2CVJ+MU+DXqtK/OxQICcqdRBhnmvPtLM+YHx1JlTeVp7ydTIXbSaiCn5GiUhc7ufCQePedKEGLkE9lHsYMzeWkJWMZ/Hjpwna0Aj9kKKRZsJR6h+ZFdAiGBeGZcMKO0o2A9cYnkbrQouOBLZjyjE4/kvNoLBwbgwRFIJLlQ0TWfYAgubZvPVgvnoleFaCRtygoi2b98wFrgdVrNVdjwJv7fT7rIUA="
+  }
+]
